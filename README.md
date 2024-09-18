@@ -77,4 +77,4 @@ DB_PASSWORD=my_password
 
 ## Autores
 
-- [Paulo Teixeira](https://codingstorm.com.br/biografia)# CS LARAVEL - Laravel 11.x #
+- [Paulo Teixeira](https://codingstorm.com.br/biografia)
